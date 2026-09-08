@@ -1,0 +1,26 @@
+{
+  "name": "DevCrew AI - Multi-Agent Software Planning",
+  "short_name": "DevCrew AI",
+  "description": "Transform your software ideas into comprehensive development blueprints with intelligent multi-agent planning system",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "developer tools", "planning"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

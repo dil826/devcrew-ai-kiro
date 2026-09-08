@@ -1,0 +1,15 @@
+.next/
+out/
+node_modules/
+public/
+.env*
+*.log
+.DS_Store
+coverage/
+dist/
+build/
+*.min.js
+*.bundle.js
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
